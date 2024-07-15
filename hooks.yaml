@@ -40,3 +40,9 @@
     language: system
     files: \.rs$
     pass_filenames: false
+-   id: cargo-test
+    name: cargo test
+    description: Run Tests
+    entry: cargo test
+    files: \.rs$
+    pass_filenames: false

@@ -44,3 +44,10 @@
   args: ["--"]
   types: [rust]
   pass_filenames: false
+- id: test
+  name: test
+  description: Run Tests
+  entry: cargo test
+  languge: system
+  args: ["--"]
+  types: [rust]

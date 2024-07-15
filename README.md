@@ -7,6 +7,7 @@ This a fork of the [fork](https://github.com/tylerjw/pre-commit-rust) of the [or
 Additions are:
 * Cargo Machete - https://github.com/lklimek/cargo-machete/blob/main/README.md
 * Cargo LLVM Cov - https://github.com/taiki-e/cargo-llvm-cov
+* Cargo Test - run tests
 
 ## Using rust tools with pre-commit
 
