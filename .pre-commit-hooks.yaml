@@ -51,3 +51,4 @@
   language: system
   args: ["--"]
   types: [rust]
+  pass_filenames: false
